@@ -1,0 +1,50 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "3ccc2958acfa3aba988e03e7d04eafaeeb0153590f1a1323b3065a98bae002e3"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "eef03feff50e59b521c09d9c456d5cd5d799b8e7e3f8cc62a17f5e64cb230f44"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "da5355d446fc91093171b0d6a082e5056498eb59b5a6ec51f8f4d194a0abc58a"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d171eabd7e1e44aaf3437dff4887bd02d2bb90f54c219417f538278b0f6cda12"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f49d39dc738efc9a78c2f32f8403e19c56ef138444ff3804519edc8d133981a9"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "c9ee46aee098ea5b32c46b028b7bc3ee7138f3e5c92bee8515a2f2152cbb6506"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "b1a81306d94f551cc889b3d24d5fb7d3f62a85d90a71a64baa405e9705e93c1c"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "ef8bedeb72d8ea0df446ec82cfc645727fee3a38d0e766193ad7158856a41f6d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+metafile = true
